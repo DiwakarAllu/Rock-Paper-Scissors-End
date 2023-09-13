@@ -6,8 +6,5 @@ Rock beats Scissors.<br>
 Scissors beats Paper.<br>
 Paper beats Rock.
 
-
-
-
-
-
+## Resources
+- https://wrpsa.com/
